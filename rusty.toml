@@ -1,0 +1,8 @@
+#butts=true
+
+[servers.aberwiki]
+address="irc.aberwiki.org"
+port=6667
+nick="RustyBot"
+channels=[ "#42","#69" ]
+admins=[ "RaVeY" ] 
